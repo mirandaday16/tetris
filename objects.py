@@ -1,4 +1,3 @@
-# I, J, L, O, S, T, Z
 from enum import Enum
 
 
